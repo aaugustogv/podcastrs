@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="podcastr-logo.svg" alt="Podcastr logo">
+  <img src="./podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
 ## Podcastr
@@ -11,13 +11,13 @@
   Podcastr is a platform built for podcast broadcasting.
 </h4>
 
-![Podcastr preview](app-preview.png)
+![Podcastr preview](./app-preview.png)
 
 ## Tecnologies
 
 <div align="center">
   <br />
-  <img src="tech-logos.png" alt="Technologies used">
+  <img src="./tech-logos.png" alt="Technologies used">
 </div>
 
 This project was developed using cutting edge front-end technologies.
